@@ -5,7 +5,7 @@
 <br>
 ✅ CSS3
 <br>
-✅ JavaSript
+✅ JavaScript
 <br>
 <br>
 <p>Ferramenta que oferece uma experiência de sorteio moderna, rápida e totalmente personalizável, perfeita para as necessidades, decisões aleatórias ou qualquer outra situação que demande a escolha imparcial de números, com design acessível e responsivo.</p>
